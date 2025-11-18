@@ -1,0 +1,57 @@
+C:\Users\06001816\Desktop\ProjetoToolkit\ProjetoToolkit\bin\Debug\net9.0\ProjetoToolkit.exe
+C:\Users\06001816\Desktop\ProjetoToolkit\ProjetoToolkit\bin\Debug\net9.0\ProjetoToolkit.deps.json
+C:\Users\06001816\Desktop\ProjetoToolkit\ProjetoToolkit\bin\Debug\net9.0\ProjetoToolkit.runtimeconfig.json
+C:\Users\06001816\Desktop\ProjetoToolkit\ProjetoToolkit\bin\Debug\net9.0\ProjetoToolkit.dll
+C:\Users\06001816\Desktop\ProjetoToolkit\ProjetoToolkit\bin\Debug\net9.0\ProjetoToolkit.pdb
+C:\Users\06001816\Desktop\ProjetoToolkit\ProjetoToolkit\obj\Debug\net9.0\ProjetoToolkit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\06001816\Desktop\ProjetoToolkit\ProjetoToolkit\obj\Debug\net9.0\ProjetoToolkit.AssemblyInfoInputs.cache
+C:\Users\06001816\Desktop\ProjetoToolkit\ProjetoToolkit\obj\Debug\net9.0\ProjetoToolkit.AssemblyInfo.cs
+C:\Users\06001816\Desktop\ProjetoToolkit\ProjetoToolkit\obj\Debug\net9.0\ProjetoToolkit.csproj.CoreCompileInputs.cache
+C:\Users\06001816\Desktop\ProjetoToolkit\ProjetoToolkit\obj\Debug\net9.0\ProjetoToolkit.dll
+C:\Users\06001816\Desktop\ProjetoToolkit\ProjetoToolkit\obj\Debug\net9.0\refint\ProjetoToolkit.dll
+C:\Users\06001816\Desktop\ProjetoToolkit\ProjetoToolkit\obj\Debug\net9.0\ProjetoToolkit.pdb
+C:\Users\06001816\Desktop\ProjetoToolkit\ProjetoToolkit\obj\Debug\net9.0\ProjetoToolkit.genruntimeconfig.cache
+C:\Users\06001816\Desktop\ProjetoToolkit\ProjetoToolkit\obj\Debug\net9.0\ref\ProjetoToolkit.dll
+C:\Users\Macro Home Office\Desktop\ProjetoToolkit\ProjetoToolkit\bin\Debug\net9.0\ProjetoToolkit.exe
+C:\Users\Macro Home Office\Desktop\ProjetoToolkit\ProjetoToolkit\bin\Debug\net9.0\ProjetoToolkit.deps.json
+C:\Users\Macro Home Office\Desktop\ProjetoToolkit\ProjetoToolkit\bin\Debug\net9.0\ProjetoToolkit.runtimeconfig.json
+C:\Users\Macro Home Office\Desktop\ProjetoToolkit\ProjetoToolkit\bin\Debug\net9.0\ProjetoToolkit.dll
+C:\Users\Macro Home Office\Desktop\ProjetoToolkit\ProjetoToolkit\bin\Debug\net9.0\ProjetoToolkit.pdb
+C:\Users\Macro Home Office\Desktop\ProjetoToolkit\ProjetoToolkit\obj\Debug\net9.0\ProjetoToolkit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Macro Home Office\Desktop\ProjetoToolkit\ProjetoToolkit\obj\Debug\net9.0\ProjetoToolkit.AssemblyInfoInputs.cache
+C:\Users\Macro Home Office\Desktop\ProjetoToolkit\ProjetoToolkit\obj\Debug\net9.0\ProjetoToolkit.AssemblyInfo.cs
+C:\Users\Macro Home Office\Desktop\ProjetoToolkit\ProjetoToolkit\obj\Debug\net9.0\ProjetoToolkit.csproj.CoreCompileInputs.cache
+C:\Users\Macro Home Office\Desktop\ProjetoToolkit\ProjetoToolkit\obj\Debug\net9.0\ProjetoToolkit.dll
+C:\Users\Macro Home Office\Desktop\ProjetoToolkit\ProjetoToolkit\obj\Debug\net9.0\refint\ProjetoToolkit.dll
+C:\Users\Macro Home Office\Desktop\ProjetoToolkit\ProjetoToolkit\obj\Debug\net9.0\ProjetoToolkit.pdb
+C:\Users\Macro Home Office\Desktop\ProjetoToolkit\ProjetoToolkit\obj\Debug\net9.0\ProjetoToolkit.genruntimeconfig.cache
+C:\Users\Macro Home Office\Desktop\ProjetoToolkit\ProjetoToolkit\obj\Debug\net9.0\ref\ProjetoToolkit.dll
+C:\Users\Macro Home Office\Documents\GitHub\ProjetoToolkitAv1\bin\Debug\net9.0\ProjetoToolkit.exe
+C:\Users\Macro Home Office\Documents\GitHub\ProjetoToolkitAv1\bin\Debug\net9.0\ProjetoToolkit.deps.json
+C:\Users\Macro Home Office\Documents\GitHub\ProjetoToolkitAv1\bin\Debug\net9.0\ProjetoToolkit.runtimeconfig.json
+C:\Users\Macro Home Office\Documents\GitHub\ProjetoToolkitAv1\bin\Debug\net9.0\ProjetoToolkit.dll
+C:\Users\Macro Home Office\Documents\GitHub\ProjetoToolkitAv1\bin\Debug\net9.0\ProjetoToolkit.pdb
+C:\Users\Macro Home Office\Documents\GitHub\ProjetoToolkitAv1\obj\Debug\net9.0\ProjetoToolkit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Macro Home Office\Documents\GitHub\ProjetoToolkitAv1\obj\Debug\net9.0\ProjetoToolkit.AssemblyInfoInputs.cache
+C:\Users\Macro Home Office\Documents\GitHub\ProjetoToolkitAv1\obj\Debug\net9.0\ProjetoToolkit.AssemblyInfo.cs
+C:\Users\Macro Home Office\Documents\GitHub\ProjetoToolkitAv1\obj\Debug\net9.0\ProjetoToolkit.csproj.CoreCompileInputs.cache
+C:\Users\Macro Home Office\Documents\GitHub\ProjetoToolkitAv1\obj\Debug\net9.0\ProjetoToolkit.sourcelink.json
+C:\Users\Macro Home Office\Documents\GitHub\ProjetoToolkitAv1\obj\Debug\net9.0\ProjetoToolkit.dll
+C:\Users\Macro Home Office\Documents\GitHub\ProjetoToolkitAv1\obj\Debug\net9.0\refint\ProjetoToolkit.dll
+C:\Users\Macro Home Office\Documents\GitHub\ProjetoToolkitAv1\obj\Debug\net9.0\ProjetoToolkit.pdb
+C:\Users\Macro Home Office\Documents\GitHub\ProjetoToolkitAv1\obj\Debug\net9.0\ProjetoToolkit.genruntimeconfig.cache
+C:\Users\Macro Home Office\Documents\GitHub\ProjetoToolkitAv1\obj\Debug\net9.0\ref\ProjetoToolkit.dll
+C:\Users\Macro Home Office\Desktop\ProjetoToolkitAv1-main\bin\Debug\net9.0\ProjetoToolkit.exe
+C:\Users\Macro Home Office\Desktop\ProjetoToolkitAv1-main\bin\Debug\net9.0\ProjetoToolkit.deps.json
+C:\Users\Macro Home Office\Desktop\ProjetoToolkitAv1-main\bin\Debug\net9.0\ProjetoToolkit.runtimeconfig.json
+C:\Users\Macro Home Office\Desktop\ProjetoToolkitAv1-main\bin\Debug\net9.0\ProjetoToolkit.dll
+C:\Users\Macro Home Office\Desktop\ProjetoToolkitAv1-main\bin\Debug\net9.0\ProjetoToolkit.pdb
+C:\Users\Macro Home Office\Desktop\ProjetoToolkitAv1-main\obj\Debug\net9.0\ProjetoToolkit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Macro Home Office\Desktop\ProjetoToolkitAv1-main\obj\Debug\net9.0\ProjetoToolkit.AssemblyInfoInputs.cache
+C:\Users\Macro Home Office\Desktop\ProjetoToolkitAv1-main\obj\Debug\net9.0\ProjetoToolkit.AssemblyInfo.cs
+C:\Users\Macro Home Office\Desktop\ProjetoToolkitAv1-main\obj\Debug\net9.0\ProjetoToolkit.csproj.CoreCompileInputs.cache
+C:\Users\Macro Home Office\Desktop\ProjetoToolkitAv1-main\obj\Debug\net9.0\ProjetoToolkit.dll
+C:\Users\Macro Home Office\Desktop\ProjetoToolkitAv1-main\obj\Debug\net9.0\refint\ProjetoToolkit.dll
+C:\Users\Macro Home Office\Desktop\ProjetoToolkitAv1-main\obj\Debug\net9.0\ProjetoToolkit.pdb
+C:\Users\Macro Home Office\Desktop\ProjetoToolkitAv1-main\obj\Debug\net9.0\ProjetoToolkit.genruntimeconfig.cache
+C:\Users\Macro Home Office\Desktop\ProjetoToolkitAv1-main\obj\Debug\net9.0\ref\ProjetoToolkit.dll
